@@ -1091,7 +1091,7 @@ object {
 
 .p-company__contentBackground {
   max-width: 1300px;
-  background-image: url(../../../img/bg-face.png), url(../../../img/bg-circle.png);
+  background-image: url(bg-face.png), url(bg-circle.png);
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1181,7 +1181,7 @@ object {
           justify-content: center;
   height: 100vh;
   color: #fff;
-  background-image: url(../../../img/hero.jpg);
+  background-image: url(hero.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1232,7 +1232,7 @@ object {
 
 .p-sub-hero {
   height: 240px;
-  background-image: url(../../../img/hero.jpg);
+  background-image: url(hero.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 106px;
@@ -1545,7 +1545,7 @@ object {
 }
 
 .p-recruitPage {
-  background-image: url(../../../img/リピートグリッド\ 8.png);
+  background-image: url(リピートグリッド\ 8.png);
   background-size: contain;
   padding-top: 116px;
   padding-bottom: 110px;
@@ -1949,7 +1949,7 @@ object {
     padding: 60px 0;
   }
   .p-company__contentBackground {
-    background-image: url(img/sp_bg-circle.png);
+    background-image: url(sp_bg-circle.png);
     background-position: center center;
     background-size: 375px;
   }
